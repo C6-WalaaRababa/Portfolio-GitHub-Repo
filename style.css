@@ -8,14 +8,48 @@ body{
 }
 
 .nav-item a{
-    color: #000;
+    color: #03436F;
    font-family: 'Roboto', sans-serif;
    font-size: 400; 
    font-size: calc(1.1rem + 0.4vh);
 } 
-.part1{
-   
-background-repeat: no-repeat;
- }
- .center_center{
- }
+span{
+    color: #FF7369;
+}
+.name{
+    padding-top: 10vh;
+    width: 30vw;
+    margin-left: 15vw;
+}
+h1{
+    text-align: center;
+color: #03436F;
+   font-family: 'Roboto', sans-serif;
+   font-size: 400; 
+   font-size: calc(1.1.75rem + 0.5vh);}
+   .btn-primary{
+    background-color: #FF7369;
+    border: #FF7369;
+    color: #fff;
+   }
+   .b-example-divider img{
+
+   }
+h5{
+    text-align: center;
+}
+.carousel-item{
+    background-color: #000;
+    opacity: 0.98;
+}
+#skills img{
+display: block;
+height: 13vh;
+width: 15vw;
+}
+.center_center{
+    background-image: url(./images/);
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+}
